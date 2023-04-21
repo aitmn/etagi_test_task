@@ -1,9 +1,9 @@
 # etagi_test_task
 
-##Файл с чек-листами и те-ст кейсами
+## Файл с чек-листами и те-ст кейсами
 https://docs.google.com/spreadsheets/d/13bxraThNuLuaDvldEPdvtjcLLId0FgKNgP9upLHUOK8/edit?usp=sharing
 
-##SQL Запросы
+## SQL Запросы
 Необходимо написать запросы, которые выводят:
 1.	Город и номер телефона клиентов только с фамилией «Попов»
 
